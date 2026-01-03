@@ -1,4 +1,4 @@
-Step 1 : Prerequisite check
+Step 2 : Prerequisite check
 
 -  Make sure to have these
   - bash mkdir file rm which
